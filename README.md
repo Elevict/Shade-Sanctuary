@@ -13,6 +13,8 @@ A minimalist theme I use to write mathematics on. Inspired heavily by [this wond
  
 - Distribute and change as you please
 
+*If there is anything you want added, feel free to let me know.*
+
 ![Preview 1](https://github.com/Elevict/Elevicts_Theme/assets/100002066/00a511ef-338e-4a5a-8833-51888d4dfefc)
 
 ![Preview 2](https://github.com/Elevict/Elevicts_Theme/assets/100002066/e0915aa9-2dfa-4558-9b11-117505cdf5c1)
