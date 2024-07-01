@@ -1,4 +1,4 @@
-# Elevicts_Theme
+# Elevicts Theme
 
 A minimalist theme I use to write mathematics on. Inspired heavily by [this wonderful guy](https://castel.dev/post/lecture-notes-1/).
 
@@ -6,7 +6,7 @@ A minimalist theme I use to write mathematics on. Inspired heavily by [this wond
 
 - Supports various callouts
   - guiding question
-  - Theorem
+  - theorem
   - example
   - corollary
   - proposition
