@@ -99,14 +99,7 @@ div.callout[data-callout="proposition"] {
   }
 }
 
-/* Adjust Note Title */
-div.inline-title{
-  color: black;
-  font-size: 14px;
-  border-bottom: 1px solid black;
-  margin-bottom: 24px;
-  --primary-color: rgb(28, 46, 207);
-}
+
 
 /* Specific Mathematics Callout Colors */
 div.callout[data-callout="guiding question"] { --callout-color: var(--guiding-question-color); }
@@ -405,4 +398,14 @@ border-width: 2px;
 
 .markdown-preview-view {
 border-radius: 6px;
+}
+
+/* Adjust Note Title */
+div.inline-title{
+color: hsl(var(--hue-he), var(--sat-fg), 65%);
+font-size: 14px;
+border-bottom: 1px solid;
+border-color: hsl(var(--hue-he), var(--sat-fg), 65%);
+margin-bottom: 24px;
+--primary-color: rgb(28, 46, 207);
 }
