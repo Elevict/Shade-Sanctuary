@@ -1,5 +1,7 @@
 # Shade Sanctuary
 
+![image](https://github.com/user-attachments/assets/58e4b740-2a75-4c4c-9c56-c529e2812930)
+
 ## Overview
 
 Shade Sanctuary is a distinctive theme for Obsidian MD, crafted to create an ideal environment for writing and working with mathematical content. This theme combines the vibrant aesthetics of a city night with the clarity of LaTeX-like syntax, transforming your Obsidian workspace into a visually engaging and functional space.
@@ -33,8 +35,6 @@ Explore the theme with these screenshots:
 ![Preview 1](https://github.com/Elevict/Elevicts_Theme/assets/100002066/00a511ef-338e-4a5a-8833-51888d4dfefc)
 
 ![Preview 2](https://github.com/Elevict/Elevicts_Theme/assets/100002066/e0915aa9-2dfa-4558-9b11-117505cdf5c1)
-
-![Preview 3](https://github.com/user-attachments/assets/0b946745-b478-4def-b533-bc9d10fce942)
 
 ## Contributing
 
