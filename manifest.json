@@ -1,7 +1,7 @@
 {
-  "name": "Shade Sanctuary",
-  "author": "Elevict",
-  "repo": "Elevict/Shade-Sanctuary",
-  "screenshot": "cover.png",
-  "modes": ["dark", "light"]
+	"name": "Shade Sanctuary",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"author": "Elevict",
+	"authorUrl": "https//github.com/Elevict"
 }
