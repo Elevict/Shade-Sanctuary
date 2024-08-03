@@ -18,16 +18,6 @@ To install the Shade Sanctuary theme in Obsidian MD:
 4. Select the theme and click on `Install and use`.
 5. Once installed, select "Shade Sanctuary" from the list of available themes.
 
-## Customization
-
-Enhance your Shade Sanctuary theme with these recommended snippets:
-
-- **Animations and Background**: Add animations, a wave-like background, and other quality-of-life improvements.
-- **Colored Sidebar Items**: Customize the colors of your sidebar folders.
-- **Gradient Callouts**: Use gradient callouts to create a dynamic home page.
-- **Mathematics Callouts**: Style your mathematical theorems with elegant callouts.
-- **Hoverable Dropdown**: Implement dropdown menus to manage large lists efficiently.
-
 ## Preview
 
 Explore the theme with these screenshots:
