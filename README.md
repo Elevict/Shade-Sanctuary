@@ -4,9 +4,9 @@
 
 ## Overview
 
-Shade Sanctuary is a distinctive theme for Obsidian MD, crafted to create an ideal environment for writing and working with mathematical content. This theme combines the vibrant aesthetics of a city night with the clarity of LaTeX-like syntax, transforming your Obsidian workspace into a visually engaging and functional space.
+Shade Sanctuary is a theme for Obsidian MD, designed to create an enjoyable environment for writing and working with mathematical content. It combines a sleek, modern look with the clarity of the *Computer Modern* font.
 
-Inspired by [Castel's lecture notes](https://castel.dev/post/lecture-notes-1/) and CyanVoxel's [Vauxhall theme](https://github.com/CyanVoxel/vauxhall-obsidian), Shade Sanctuary blends academic elegance with dynamic visuals.
+Inspired by [Castel's lecture notes](https://castel.dev/post/lecture-notes-1/) and CyanVoxel's [Vauxhall theme](https://github.com/CyanVoxel/vauxhall-obsidian), Shade Sanctuary blends the academic feel with colorful visuals.
 
 ## Installation
 
@@ -25,6 +25,13 @@ Explore the theme with these screenshots:
 ![Preview 1](https://github.com/Elevict/Elevicts_Theme/assets/100002066/00a511ef-338e-4a5a-8833-51888d4dfefc)
 
 ![Preview 2](https://github.com/Elevict/Elevicts_Theme/assets/100002066/e0915aa9-2dfa-4558-9b11-117505cdf5c1)
+
+## Customization
+
+You can customize Shade Sanctuary by installing the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin. This allows you to select various color schemes for your interface, ranging from red to purple. Additionally, you can adjust the intensity of your interface, whether you prefer it brighter or completely dark. Note that these changes only affect the dark theme.
+
+For further customization, you can install [Elevict's snippets](https://github.com/Elevict/Elevict-Snippets). These snippets include features like mathematics callouts, gradient callouts and headers, and animated elements.
+
 
 ## Contributing
 
