@@ -620,7 +620,7 @@ settings:
     title: Theme Color
     description: "The domiannt color of your theme. (Dark Theme only)"
     type: class-select
-    default: indigo-harmony
+    default: purple-mystic
     options:
       -
         label: Red
