@@ -27,6 +27,16 @@ body .markdown-rendered .markdown-preview-section > div:has(+ div > :is(h1, h2, 
 /* Default Base Color */
 .theme-dark,
 .theme-light,
+.purple-mystic {
+  --hue-bg: 265;
+  --hue-fg: 265;
+  --sat-bg: 60%;
+  --sat-fg: 100%;
+  &.theme-light {
+    --lum-fg: 50%;
+    --lum-bg: 95%;
+  }
+}
 .indigo-harmony {
   --hue-bg: 238;
   --hue-fg: 255;
@@ -80,16 +90,6 @@ body .markdown-rendered .markdown-preview-section > div:has(+ div > :is(h1, h2, 
 .blue-ocean {
   --hue-bg: 228;
   --hue-fg: 220;
-  --sat-bg: 60%;
-  --sat-fg: 100%;
-  &.theme-light {
-    --lum-fg: 50%;
-    --lum-bg: 95%;
-  }
-}
-.purple-mystic {
-  --hue-bg: 265;
-  --hue-fg: 265;
   --sat-bg: 60%;
   --sat-fg: 100%;
   &.theme-light {
