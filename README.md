@@ -36,32 +36,52 @@ To contribute to Shade Sanctuary:
 
 This theme is in **very** active development. Your feedback is essential! If there is a problem you are having, or you would like to further tailor the theme to your liking, don't be afraid to let me know. I’m always looking to improve the theme and provide a better experience for users.
 
-## Change Log
-#### UI and Visual Enhancements
-- Updated the appearance of tabs, including hover behavior and support for stacked tabs.
-- Enhanced the look of the view header to be more enclosed.
-- Adjusted icon colors and hover behaviors.
-- Modified callouts to resemble the default Obsidian callouts.
-- Changed the vault profile to a pill shape with a smaller size.
-- Updated horizontal rule spacing.
-- Added more font support, including JetBrains Mono as the default for UI and monospace, and additional fonts in case Computer Modern does not work.
-- Adjusted color values for improved readability, including adding borders to the editor layout.
+# Change Log
+<details>
+  <summary>UI and Visual Enhancements</summary>
 
-#### Plugin Support and Integration
-- Added and completely revamped support for the calendar plugin.
-- Added support for the style settings plugin and revamped the options menu.
-- Introduced support for the banner plugin with more updates to follow.
+  - Updated the appearance of tabs, including hover behavior and support for stacked tabs.
+  - Enhanced the look of the view header to be more enclosed.
+  - Adjusted icon colors and hover behaviors.
+  - Modified callouts to resemble the default Obsidian callouts.
+  - Changed the vault profile to a pill shape with a smaller size.
+  - Updated horizontal rule spacing.
+  - Added more font support, including JetBrains Mono as the default for UI and monospace, and additional fonts in case Computer Modern does not work.
+  - Adjusted color values for improved readability, including adding borders to the editor layout.
 
-#### Editor and Functional Improvements
-- Fixed the issue with the slider track not displaying properly.
-- Made the options menu more readable by adding icons and borders.
-- Blockquotes now function as expected.
-- Introduced new, hoverable icons in the editor for better visibility.
+</details>
 
-#### Miscellaneous
-- Made various other improvements, additions, and bug fixes.
+<details>
+  <summary>Plugin Support and Integration</summary>
 
-### Upcoming Features
-- Introduction of more color palettes for the editor.
-- Support for colored folders.
+  - Added and completely revamped support for the calendar plugin.
+  - Added support for the style settings plugin and revamped the options menu.
+  - Introduced support for the banner plugin with more updates to follow.
+
+</details>
+
+<details>
+  <summary>Editor and Functional Improvements</summary>
+
+  - Fixed the issue with the slider track not displaying properly.
+  - Made the options menu more readable by adding icons and borders.
+  - Blockquotes now function as expected.
+  - Introduced new, hoverable icons in the editor for better visibility.
+
+</details>
+
+<details>
+  <summary>Miscellaneous</summary>
+
+  - Made various other improvements, additions, and bug fixes.
+
+</details>
+<details>
+  <summary>Planned Enhancements</summary>
+
+  - Introduction of more color palettes for the editor.
+  - Support for colored folders.
+  - Extensive style settings for all aspects of the theme.
+
+</details>
 - Extensive style settings for all aspects of the theme.
