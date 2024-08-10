@@ -1,12 +1,7 @@
-# Shade Sanctuary
-
-![image](https://github.com/user-attachments/assets/58e4b740-2a75-4c4c-9c56-c529e2812930)
-
+![image](https://github.com/user-attachments/assets/2ce21efe-96ae-4398-adbd-fbea9ee9cdf6)
 ## Overview
 
-Shade Sanctuary is a theme for Obsidian MD, designed to create an enjoyable environment for writing and working with mathematical content. It combines a sleek, modern look with the clarity of the *Computer Modern* font.
-
-Inspired by [Castel's lecture notes](https://castel.dev/post/lecture-notes-1/) and CyanVoxel's [Vauxhall theme](https://github.com/CyanVoxel/vauxhall-obsidian), Shade Sanctuary blends the academic feel with colorful visuals.
+Shade Sanctuary is a theme for Obsidian MD, originally designed to create an enjoyable environment for writing and working with educational content. Inspired by [Castel's lecture notes](https://castel.dev/post/lecture-notes-1/) and CyanVoxel's [Vauxhall theme](https://github.com/CyanVoxel/vauxhall-obsidian), Shade Sanctuary blends the academic feel with colorful visuals.
 
 ## Installation
 
@@ -18,20 +13,17 @@ To install the Shade Sanctuary theme in Obsidian MD:
 4. Select the theme and click on `Install and use`.
 5. Once installed, select "Shade Sanctuary" from the list of available themes.
 
-## Preview
-
-Explore the theme with these screenshots:
-
-![Preview 1](https://github.com/Elevict/Elevicts_Theme/assets/100002066/00a511ef-338e-4a5a-8833-51888d4dfefc)
-
-![Preview 2](https://github.com/Elevict/Elevicts_Theme/assets/100002066/e0915aa9-2dfa-4558-9b11-117505cdf5c1)
-
 ## Customization
 
-You can customize Shade Sanctuary by installing the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin. This allows you to select various color schemes for your interface, ranging from red to purple. Additionally, you can adjust the intensity of your interface, whether you prefer it brighter or completely dark. Note that these changes only affect the dark theme.
+You can customize Shade Sanctuary by installing the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin. This allows you to select various color schemes for your interface, ranging from red to purple. Additionally, you can adjust the intensity of your interface, whether you prefer it brighter or completely dark. Note that these changes only affect the dark theme for the time being.
 
-For further customization, you can install [Elevict's snippets](https://github.com/Elevict/Elevict-Snippets). These snippets include features like mathematics callouts, gradient callouts and headers, and animated elements.
+For further customization, you can install [Elevict's snippets](https://github.com/Elevict/Elevict-Snippets). These snippets include features like mathematics callouts, gradient callouts and headers, animated elements, and much more.
 
+## Preview
+
+Explore the theme using some of [Elevict's snippets](https://github.com/Elevict/Elevict-Snippets) in these screenshots:
+![image](https://github.com/user-attachments/assets/6264dc56-8a93-48fd-b6ef-97a1162635a1)
+![image](https://github.com/user-attachments/assets/3287deb4-c032-47ed-8095-b8758b8da922)
 
 ## Contributing
 
@@ -42,4 +34,34 @@ To contribute to Shade Sanctuary:
 
 ## Feedback
 
-Your feedback is essential! If you have suggestions or feature requests, please let me know. I’m always looking to improve the theme and provide a better experience for users.
+This theme is in **very** active development. Your feedback is essential! If there is a problem you are having, or you would like to further tailor the theme to your liking, don't be afraid to let me know. I’m always looking to improve the theme and provide a better experience for users.
+
+## Change Log
+#### UI and Visual Enhancements
+- Updated the appearance of tabs, including hover behavior and support for stacked tabs.
+- Enhanced the look of the view header to be more enclosed.
+- Adjusted icon colors and hover behaviors.
+- Modified callouts to resemble the default Obsidian callouts.
+- Changed the vault profile to a pill shape with a smaller size.
+- Updated horizontal rule spacing.
+- Added more font support, including JetBrains Mono as the default for UI and monospace, and additional fonts in case Computer Modern does not work.
+- Adjusted color values for improved readability, including adding borders to the editor layout.
+
+#### Plugin Support and Integration
+- Added and completely revamped support for the calendar plugin.
+- Added support for the style settings plugin and revamped the options menu.
+- Introduced support for the banner plugin with more updates to follow.
+
+#### Editor and Functional Improvements
+- Fixed the issue with the slider track not displaying properly.
+- Made the options menu more readable by adding icons and borders.
+- Blockquotes now function as expected.
+- Introduced new, hoverable icons in the editor for better visibility.
+
+#### Miscellaneous
+- Made various other improvements, additions, and bug fixes.
+
+### Upcoming Features
+- Introduction of more color palettes for the editor.
+- Support for colored folders.
+- Extensive style settings for all aspects of the theme.
