@@ -34,7 +34,7 @@ To contribute to Shade Sanctuary:
 
 ## Feedback
 
-This theme is in **very** active development. Your feedback is essential! If there is a problem you are having, or you would like to further tailor the theme to your liking, don't be afraid to let me know. I’m always looking to improve the theme and provide a better experience for users.
+Your feedback is essential! If there is a problem you are having, or you would like to further tailor the theme to your liking, don't be afraid to let me know. I’m always looking to improve the theme and provide a better experience for users.
 
 # Theme Update Log 
 <details>
