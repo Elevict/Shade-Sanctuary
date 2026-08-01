@@ -234,11 +234,11 @@ div.callout {
   mix-blend-mode: normal;
   border: solid 2px;
   border-radius: 6px;
-  border-color: rgba(var(--callout-color), 0.3);
+  border-color: color-mix(in srgb, var(--callout-color) 30%, transparent);
   /* Adjust Title */
   .callout-title-inner {
     font-weight: revert;
-    color: rgb(var(--callout-color));
+    color: var(--callout-color);
   }
   /* Vertically centers the p element */
   .callout-content {
@@ -246,11 +246,11 @@ div.callout {
   }
 
   /* Change color of table and bullet lists inside callout */
-  --table-border-color: rgb(var(--callout-color));
-  --table-header-border-color: rgb(var(--callout-color));
-  --list-marker-color: rgb(var(--callout-color));
-  --link-color: rgb(var(--callout-color));
-  --bold-color: rgb(var(--callout-color));
+  --table-border-color: var(--callout-color);
+  --table-header-border-color: var(--callout-color);
+  --list-marker-color: var(--callout-color);
+  --link-color: var(--callout-color);
+  --bold-color: var(--callout-color);
 }
 
 /* ============== Tables ============== */
